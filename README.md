@@ -3,6 +3,7 @@
 This repository serves as a collection of my assignments and projects for my Neural Networks university course. Each project focuses on a different architecture or fundamental concept of Machine Learning.
 
 ***Project 1: Logistic Regression as a Single-Layer Perceptron***
+
 Objective
 
 To implement a fundamental classifier using TensorFlow to understand how a single neuron makes decisions.
